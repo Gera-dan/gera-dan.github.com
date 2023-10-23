@@ -1,6 +1,6 @@
 * {
   font-family: 'Roboto', sans-serif;
-  color: #383428;
+  color: #0851d8;
 }
 
 /* 
@@ -10,7 +10,7 @@ yellow - #F6D55C
 */
 
 body {
-  background-color: #3CAEA3;
+  background-color: #000000;
 }
 
 main {
@@ -45,8 +45,8 @@ h1 {
 .btn-group>a {}
 
 .btn-group .btn {
-  background-color: #173F5F;
-  color: white;
+  background-color: #aec94b;
+  color: rgb(0, 0, 0);
   font-weight: 300;
   width: 100%;
   text-align: center;
@@ -58,7 +58,8 @@ h1 {
 .divider {
   height: 2px;
   width: 100%;
-  background-color: #383428;
+  background-color: 
+  #383428;
 }
 
 footer {
